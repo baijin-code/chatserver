@@ -1,0 +1,3 @@
+/home/baijin/code/.vscode/testmuduo/build/CMakeFiles/rebuild_cache.dir
+/home/baijin/code/.vscode/testmuduo/build/CMakeFiles/server.dir
+/home/baijin/code/.vscode/testmuduo/build/CMakeFiles/edit_cache.dir

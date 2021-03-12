@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
+
+//g++/gcc  -I头文件搜索路径   -L库文件搜索路径   -lmuduo_net   一般默认头文件放在/usr/include/ 或者 /usr/local/include
+//在那两个里面就不用在这里添加头文件 同理，/usr/lib/ 或 /usr/local/lib/
